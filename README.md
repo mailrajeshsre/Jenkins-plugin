@@ -1,4 +1,4 @@
-# Jenkins Upgradev3
+# Jenkins Plugins demo
 
 ![Jenkins Logo](https://jenkins.io/images/logos/jenkins-logo.png)
 
